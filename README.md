@@ -143,19 +143,25 @@ Recommended evidence:
 ## Project Screenshots
 
 ### Apache2 Web Server
-![Apache2 Service](screenshots/01-apache-service-running.png)
+[![Apache2 Web Server](Apache%20Web%20server.png)](Apache%20Web%20server.png)
 
 ### Custom Webpage
-![Custom Webpage](screenshots/02-custom-webpage-kali.png)
+[![Customized Webpage](customize%20webpage.png)](customize%20webpage.png)
 
 ### Authorized Windows VM
-![Windows VM](screenshots/03-windows-vm-allowed.png)
+[![Windows VM](Windows%20vm.png)](Windows%20vm.png)
 
-### Restricted Laptop
-![Blocked Laptop](screenshots/05-laptop-blocked.png)
+### Blocked Device
+[![Blocked Device](Blocking%20device.png)](Blocking%20device.png)
+
+### UFW Firewall Rules
+[![UFW Firewall Rules](UFW%20rules.png)](UFW%20rules.png)
 
 ### UFW Firewall Logs
-![UFW Logs](screenshots/07-ufw-firewall-logs.png)
+[![UFW Firewall Logs](UFW%20logs.png)](UFW%20logs.png)
+
+### Apache2 Server Logs
+[![Apache2 Server Logs](Apache2%20server%20logs.png)](Apache2%20server%20logs.png)
 
 ## Author
 
